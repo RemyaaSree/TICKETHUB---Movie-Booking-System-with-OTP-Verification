@@ -28,7 +28,7 @@ With its intuitive interface, customers can pick desired showtimes, pick favorit
 
 1. Clone the repository:
 ```bash
-git clone <"https://www.github.com/RemyaaSree/TICKETHUB-Movie-Booking-System-with-OTP-Verification">
+git clone <https://www.github.com/RemyaaSree/TICKETHUB-Movie-Booking-System-with-OTP-Verification>
 ```
 
 2. Install dependencies:
